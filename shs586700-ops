@@ -1,4 +1,6 @@
-git add .
-git commit -m "Complete Lab 10 solution"
-git push origin main
+osslab10-shs586700-create/
+ ├── main.py
+ ├── test.py
+ ├── README.md
+ └── classroom.yml
 
