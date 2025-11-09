@@ -1,6 +1,5 @@
-osslab10-shs586700-create/
- ├── main.py
- ├── test.py
- ├── README.md
- └── classroom.yml
+# main.py
+
+if __name__ == "__main__":
+    print("Hello OSS Lab10")
 
