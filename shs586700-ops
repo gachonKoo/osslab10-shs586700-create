@@ -2,4 +2,7 @@
 
 if __name__ == "__main__":
     print("Hello OSS Lab10")
+git add main.py
+git commit -m "Add solution for Lab10"
+git push origin main
 
