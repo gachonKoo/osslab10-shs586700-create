@@ -1,1 +1,4 @@
+git add .
+git commit -m "Complete Lab 10 solution"
+git push origin main
 
